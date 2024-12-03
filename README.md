@@ -73,4 +73,4 @@
 
 ## 🔔 Lets connect through:  
 <a href="https://www.linkedin.com/in/samuelcaceres1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:samuelcaceresvillalba@gmail.com)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](https://mail.google.com/mail/?view=cm&to=samuelcaceresvillalba@gmail.com)
