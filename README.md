@@ -74,4 +74,8 @@
 ## 🔔 Lets connect through:  
 <a href="https://www.linkedin.com/in/samuelcaceres1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
 
