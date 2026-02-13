@@ -7,6 +7,10 @@
         dynamic world.</p>
 </samp>
 
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
 ## 💻 Technologies
 <div>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -74,8 +78,5 @@
 ## 🔔 Lets connect through:  
 <a href="https://www.linkedin.com/in/samuelcaceres1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
 
 
