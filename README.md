@@ -75,13 +75,10 @@
     <a href="#"><img alt="YouTrack"
             src="https://img.shields.io/badge/YouTrack-E94F1E?style=for-the-badge&logo=youtrack&logoColor=white"></a>
 
-## 🌐 Portfolio
+## 🤝 Let's Connect
 
-👉 https://samuelcaceres.es
-
-## 🔔 Lets connect through:  
-
-<a href="https://www.linkedin.com/in/samuelcaceres1/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
-
+<div>
+    <a href="https://samuelcaceres.es"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/samuelcaceres1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:samuelcaceresvillalba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
