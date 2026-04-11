@@ -75,10 +75,13 @@
     <a href="#"><img alt="YouTrack"
             src="https://img.shields.io/badge/YouTrack-E94F1E?style=for-the-badge&logo=youtrack&logoColor=white"></a>
 
-## 🔔 Lets connect through:  
-<a href="https://www.linkedin.com/in/samuelcaceres1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+## 🌐 Portfolio
 
-<a href="https://samuelcaceres.es">
-  <img src="https://img.icons8.com/color/48/000000/domain.png" />
+👉 https://samuelcaceres.es
+
+## 🔔 Lets connect through:  
+
+<a href="https://www.linkedin.com/in/samuelcaceres1/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
